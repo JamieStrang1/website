@@ -27,5 +27,5 @@ theme = 'PaperMod'
 
 [[menu.main]]
   name = "Projects"
-  url = "/projects/"
+  url = "projects/"
   weight = 10
