@@ -19,7 +19,7 @@ theme = 'PaperMod'
 
 [[params.profileMode.buttons]]
   name = "Download CV"
-  url = "/files/CV.pdf"
+  url = "/files/JamieStrangCV.pdf"
 
 [[params.socialIcons]]
   name = "github"
