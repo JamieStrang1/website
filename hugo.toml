@@ -1,0 +1,31 @@
+baseURL = 'https://JamieStrang1.github.io/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+[params.profileMode]
+  enabled = true
+  title = "Jamie Strang"
+  subtitle = "Finance & Computer Science Student | University of Otago"
+
+[[params.profileMode.buttons]]
+  name = "Projects"
+  url = "/projects/"
+
+[[params.profileMode.buttons]]
+  name = "Download CV"
+  url = "/files/CV.pdf"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/JamieStrang1"
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 10
