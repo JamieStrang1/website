@@ -1,4 +1,4 @@
-baseURL = 'https://JamieStrang1.github.io/'
+baseURL = "https://jamiestrang1.github.io/website/"
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = 'PaperMod'
@@ -15,11 +15,11 @@ theme = 'PaperMod'
 
 [[params.profileMode.buttons]]
   name = "Projects"
-  url = "/projects/"
+  url = "/website/projects/"
 
 [[params.profileMode.buttons]]
   name = "Download CV"
-  url = "/files/JamieStrangCV.pdf"
+  url = "/website/files/JamieStrangCV.pdf"
 
 [[params.socialIcons]]
   name = "github"
@@ -27,5 +27,5 @@ theme = 'PaperMod'
 
 [[menu.main]]
   name = "Projects"
-  url = "/projects/"
+  url = "/website/projects/"
   weight = 10
