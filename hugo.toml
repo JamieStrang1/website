@@ -15,11 +15,11 @@ theme = 'PaperMod'
 
 [[params.profileMode.buttons]]
   name = "Projects"
-  url = "/projects/"
+  url = "projects/"
 
 [[params.profileMode.buttons]]
   name = "Download CV"
-  url = "/files/JamieStrangCV.pdf"
+  url = "files/JamieStrangCV.pdf"
 
 [[params.socialIcons]]
   name = "github"
