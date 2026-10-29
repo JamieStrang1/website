@@ -25,6 +25,10 @@ theme = 'PaperMod'
   name = "github"
   url = "https://github.com/JamieStrang1"
 
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://nz.linkedin.com/in/jamie-strang"
+
 [[menu.main]]
   name = "Projects"
   url = "/projects/"
