@@ -13,6 +13,12 @@ This project was completed as part of my Cloud Computing studies at the Universi
 
 The project involved using Terraform to provision and configure cloud infrastructure on Amazon Web Services (AWS), applying infrastructure-as-code principles to automate resource deployment and management.
 
+### Project Background
+
+This project builds on my earlier [Multi-VM Web Application](/projects/multi-vm-web-app/), where I deployed a Movie & TV Watchlist application across three local virtual machines using Vagrant and VirtualBox.
+
+The aim was to extend my understanding of infrastructure deployment by moving from locally hosted virtual machines to AWS cloud infrastructure, using Terraform to automate the provisioning and configuration of cloud resources.
+
 ## Technologies Used
 
 - **Terraform** — Infrastructure provisioning and configuration
