@@ -4,4 +4,6 @@ description = "A selection of my software development and university projects."
 draft = false
 +++
 
-A collection of projects I've worked on during my Computer Science studies at the University of Otago, covering cloud computing, artificial intelligence, and software development.
+A selection of my technical and personal projects.
+
+A collection of projects spanning software development, cloud computing, artificial intelligence, computer hardware, and entrepreneurship, combining university coursework with independent ventures and practical experience.
